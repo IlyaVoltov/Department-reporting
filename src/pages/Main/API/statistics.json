@@ -1,0 +1,34 @@
+{
+	"Январь": {
+		"createdTasks": 15,
+		"completedTasks": 12,
+		"pullRequests": 4,
+		"commits": 7
+	},
+	"Февраль": {
+		"createdTasks": 25,
+		"completedTasks": 55,
+		"pullRequests": 47,
+		"commits": 75
+	},
+	"Март": {
+		"createdTasks": 1525,
+		"completedTasks": 55,
+		"pullRequests": 2,
+		"commits": 5
+	},
+	"Апрель": {
+		"createdTasks": 66,
+		"completedTasks": 555,
+		"pullRequests": 55,
+		"commits": 7
+	},
+	"Май": {},
+	"Июнь": {},
+	"Июль": {},
+	"Август": {},
+	"Сентябрь": {},
+	"Октябрь": {},
+	"Ноябрь": {},
+	"Декабрь": {}
+}

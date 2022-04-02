@@ -1,0 +1,32 @@
+[
+	{
+		"firstName": "Илья",
+		"lastName": "Волтов",
+		"position": "Ведущий эксперт"
+	},
+	{
+		"firstName": "Кристина",
+		"lastName": "Челышева",
+		"position": "Ведущий специалист "
+	},
+	{
+		"firstName": "Иван",
+		"lastName": "Степалин",
+		"position": "Главный специалист "
+	},
+	{
+		"firstName": "Анастасия",
+		"lastName": "Тяпкина",
+		"position": "Ведущий специалист "
+	},
+	{
+		"firstName": "Ольга",
+		"lastName": "Кулагина",
+		"position": "Ведущий специалист "
+	},
+	{
+		"firstName": "Дмитрий",
+		"lastName": "Иванов",
+		"position": "Ведущий эксперт "
+	}
+]

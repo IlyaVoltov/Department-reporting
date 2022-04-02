@@ -1,0 +1,147 @@
+[
+	{
+		"guid": "11",
+		"workStartDate": "2020-01-01",
+		"developer": "Кулагина Ольга",
+		"position": "software developer (F-E)",
+		"info": [
+			{
+				"guid": "21",
+				"stage": "01-01-2020",
+				"position": "software developer (F-E)",
+				"actions": "мастер-класс по юнит-тестированию javascript.ninja",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "22",
+				"stage": "01-02-2020",
+				"position": "software developer (F-E)",
+				"actions": "прочитать книгу Чистый код. Роберт Мартин",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "23",
+				"stage": "01-03-2020",
+				"position": "software developer (F-E)",
+				"actions": "Освоить redux-toolkit",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			}
+		]
+	},
+	{
+		"workStartDate": "2020-01-01",
+		"guid": "12",
+		"developer": "Тяпкина Анастасия",
+		"position": "software developer (F-E)",
+		"info": [
+			{
+				"guid": "21",
+				"stage": "01-01-2020",
+				"position": "software developer (F-E)",
+				"actions": "Освоить плагины в вс коде",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "22",
+				"stage": "01-02-2020",
+				"position": "software developer (F-E)",
+				"actions": "Улучшение кодовой базы стилей",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "23",
+				"stage": "01-03-2020",
+				"position": "software developer (F-E)",
+				"actions": "освоить тайпскрипт",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			}
+		]
+	},
+	{
+		"workStartDate": "2020-01-01",
+		"guid": "13",
+		"position": "software developer (F-E)",
+		"developer": "Степалин Иван",
+		"info": [
+			{
+				"guid": "21",
+				"stage": "01-01-2020",
+				"position": "software developer (F-E)",
+				"actions": "Освоить плагины в вебшторме",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "22",
+				"stage": "01-02-2020",
+				"position": "software developer (F-E)",
+				"actions": "Освоить Sass",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "23",
+				"stage": "01-03-2020",
+				"position": "software developer (F-E)",
+				"actions": "освоить тайпскрипт",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			}
+		]
+	},
+	{
+		"workStartDate": "2020-01-01",
+		"guid": "14",
+		"position": "UI / UX desigener",
+		"developer": "Челышева Кристина",
+		"info": [
+			{
+				"guid": "21",
+				"stage": "01-01-2020",
+				"position": "UI / UX desigener",
+				"actions": "Освоить фигму",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "22",
+				"stage": "01-02-2020",
+				"position": "UI / UX desigener",
+				"actions": "Освоить дизайн макет",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "23",
+				"stage": "01-03-2020",
+				"position": "UI / UX desigener",
+				"actions": "освоить информацию по проекту",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			}
+		]
+	},
+	{
+		"workStartDate": "2020-01-01",
+		"guid": "15",
+		"position": "project manager",
+		"developer": "Иванов Дмиртрий",
+		"info": [
+			{
+				"guid": "21",
+				"stage": "01-01-2020",
+				"position": "project manager",
+				"actions": "Обсудить новые фичи с клиентами",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "22",
+				"stage": "01-02-2020",
+				"position": "project manager",
+				"actions": "Отговорить клиентов от новых фич",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			},
+			{
+				"guid": "23",
+				"stage": "01-03-2020",
+				"position": "project manager",
+				"actions": "Поздравить коллег с уменьшением лишней рбаоты",
+				"linkToProject": "https://bilab.jetbrains.space/meetings/1z7YGz20HpGQ"
+			}
+		]
+	}
+]

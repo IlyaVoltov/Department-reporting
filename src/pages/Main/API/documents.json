@@ -1,0 +1,445 @@
+{
+	"Январь": [
+		{
+			"sectionName": "incomingDocuments",
+			"sectionNameRu": "Входящие документы",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "472"
+				},
+				{
+					"title": "Волтов",
+					"number": "24"
+				},
+				{
+					"title": "Иванов",
+					"number": "5"
+				}
+			]
+		},
+		{
+			"sectionName": "draftDocuments",
+			"sectionNameRu": "Черновики",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "3"
+				},
+				{
+					"title": "Волтов",
+					"number": "12"
+				},
+				{
+					"title": "Иванов",
+					"number": "12"
+				},
+				{
+					"title": "Новые",
+					"number": "14"
+				},
+				{
+					"title": "В работе",
+					"number": "25"
+				}
+			]
+		},
+		{
+			"sectionName": "rejectedDocuments",
+			"sectionNameRu": "Отклоненные",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "12"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+				{
+					"title": "Новые",
+					"number": "14"
+				}
+			]
+		},
+		{
+			"sectionName": "forApprovalDocuments",
+			"sectionNameRu": "На согласовании",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "32"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+				{
+					"title": "В работе",
+					"number": "25"
+				}
+			]
+		},
+		{
+			"sectionName": "awaitingSignature",
+			"sectionNameRu": "Ожидают подписи",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "32"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+
+				{
+					"title": "В работе",
+					"number": "15"
+				}
+			]
+		}
+	],
+	"Февраль": [
+		{
+			"sectionName": "incomingDocuments",
+			"sectionNameRu": "Входящие документы",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "85"
+				},
+				{
+					"title": "Волтов",
+					"number": "858"
+				},
+				{
+					"title": "Иванов",
+					"number": "858"
+				}
+			]
+		},
+		{
+			"sectionName": "draftDocuments",
+			"sectionNameRu": "Черновики",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "12"
+				},
+				{
+					"title": "Иванов",
+					"number": "12"
+				},
+				{
+					"title": "Новые",
+					"number": "55"
+				},
+				{
+					"title": "В работе",
+					"number": "25"
+				}
+			]
+		},
+		{
+			"sectionName": "rejectedDocuments",
+			"sectionNameRu": "Отклоненные",
+			"data": []
+		},
+		{
+			"sectionName": "forApprovalDocuments",
+			"sectionNameRu": "На согласовании",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "32"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+				{
+					"title": "В работе",
+					"number": "25"
+				}
+			]
+		},
+		{
+			"sectionName": "awaitingSignature",
+			"sectionNameRu": "Ожидают подписи",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "32"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+
+				{
+					"title": "В работе",
+					"number": "15"
+				}
+			]
+		}
+	],
+	"Март": [
+		{
+			"sectionName": "incomingDocuments",
+			"sectionNameRu": "Входящие документы",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "2456"
+				},
+				{
+					"title": "Волтов",
+					"number": "124"
+				},
+				{
+					"title": "Иванов",
+					"number": "2332"
+				}
+			]
+		},
+		{
+			"sectionName": "draftDocuments",
+			"sectionNameRu": "Черновики",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "12"
+				},
+				{
+					"title": "Иванов",
+					"number": "12"
+				},
+				{
+					"title": "Новые",
+					"number": "14"
+				},
+				{
+					"title": "В работе",
+					"number": "25"
+				}
+			]
+		},
+		{
+			"sectionName": "rejectedDocuments",
+			"sectionNameRu": "Отклоненные",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "12"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+				{
+					"title": "Новые",
+					"number": "14"
+				}
+			]
+		},
+		{
+			"sectionName": "forApprovalDocuments",
+			"sectionNameRu": "На согласовании",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "32"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+				{
+					"title": "В работе",
+					"number": "25"
+				}
+			]
+		},
+		{
+			"sectionName": "awaitingSignature",
+			"sectionNameRu": "Ожидают подписи",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "32"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+
+				{
+					"title": "В работе",
+					"number": "15"
+				}
+			]
+		}
+	],
+	"Апрель": [
+		{
+			"sectionName": "incomingDocuments",
+			"sectionNameRu": "Входящие документы",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "2456"
+				},
+				{
+					"title": "Волтов",
+					"number": "124"
+				},
+				{
+					"title": "Иванов",
+					"number": "2332"
+				}
+			]
+		},
+		{
+			"sectionName": "draftDocuments",
+			"sectionNameRu": "Черновики",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "12"
+				},
+				{
+					"title": "Иванов",
+					"number": "12"
+				},
+				{
+					"title": "Новые",
+					"number": "14"
+				},
+				{
+					"title": "В работе",
+					"number": "25"
+				}
+			]
+		},
+		{
+			"sectionName": "rejectedDocuments",
+			"sectionNameRu": "Отклоненные",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "12"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+				{
+					"title": "Новые",
+					"number": "14"
+				}
+			]
+		},
+		{
+			"sectionName": "forApprovalDocuments",
+			"sectionNameRu": "На согласовании",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "32"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+				{
+					"title": "В работе",
+					"number": "25"
+				}
+			]
+		},
+		{
+			"sectionName": "awaitingSignature",
+			"sectionNameRu": "Ожидают подписи",
+			"data": [
+				{
+					"title": "Всего",
+					"number": "53"
+				},
+				{
+					"title": "Волтов",
+					"number": "32"
+				},
+				{
+					"title": "Иванов",
+					"number": "23"
+				},
+
+				{
+					"title": "В работе",
+					"number": "15"
+				}
+			]
+		}
+	],
+	"Май": [],
+	"Июнь": [],
+	"Июль": [],
+	"Август": [],
+	"Сентябрь": [],
+	"Октябрь": [],
+	"Ноябрь": [],
+	"Декабрь": []
+}

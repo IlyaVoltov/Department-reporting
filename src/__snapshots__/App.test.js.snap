@@ -1,0 +1,2723 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тестирование страницы: План развития сотрудников Проверка на  рендер приложения 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiBox-root css-k008qs"
+      >
+        <div
+          class="MuiDrawer-root MuiDrawer-docked css-1ied04v-MuiDrawer-docked"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-12i7wg6-MuiPaper-root-MuiDrawer-paper"
+          >
+            <span
+              class="MuiBox-root css-cbawd"
+            >
+              <h1
+                class="MuiTypography-root MuiTypography-h1 css-11riag6-MuiTypography-root"
+              >
+                УР ПО
+              </h1>
+            </span>
+            <nav
+              class="MuiList-root MuiList-padding css-1n0edy-MuiList-root"
+            >
+              <a
+                class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root"
+                href="/main"
+                tabindex="0"
+              >
+                <div
+                  class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                    data-testid="AutoAwesomeMosaicIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 5v14c0 1.1.89 2 2 2h6V3H5c-1.11 0-2 .9-2 2zm16-2h-6v8h8V5c0-1.1-.9-2-2-2zm-6 18h6c1.1 0 2-.9 2-2v-6h-8v8z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                  >
+                    Основные показатели
+                  </span>
+                </div>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </a>
+              <a
+                class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root"
+                href="/reports"
+                tabindex="0"
+              >
+                <div
+                  class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                    data-testid="ListAltIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m1.1-2H3.9c-.5 0-.9.4-.9.9v16.2c0 .4.4.9.9.9h16.2c.4 0 .9-.5.9-.9V3.9c0-.5-.5-.9-.9-.9zM11 7h6v2h-6V7zm0 4h6v2h-6v-2zm0 4h6v2h-6zM7 7h2v2H7zm0 4h2v2H7zm0 4h2v2H7z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                  >
+                    Отчеты
+                  </span>
+                </div>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </a>
+              <a
+                aria-current="page"
+                class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root active"
+                href="/development"
+                tabindex="0"
+              >
+                <div
+                  class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                    data-testid="TrendingUpIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="m16 6 2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                  >
+                    План развития сотрудников
+                  </span>
+                </div>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </a>
+            </nav>
+            <div
+              class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-1emaoxj-MuiToolbar-root"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                tabindex="0"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-f0vcbh-MuiSvgIcon-root"
+                  data-testid="MenuOpenIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M3 18h13v-2H3v2zm0-5h10v-2H3v2zm0-7v2h13V6H3zm18 9.59L17.42 12 21 8.41 19.59 7l-5 5 5 5L21 15.59z"
+                  />
+                </svg>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <main
+          class="MuiBox-root css-1w1gdci"
+        >
+          <div
+            class="MuiContainer-root css-1jcr8da-MuiContainer-root"
+          >
+            <div>
+              <div
+                style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;"
+              >
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 css-182teav-MuiTypography-root"
+                >
+                  План развития сотрудников
+                </h2>
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-bzaln3-MuiGrid-root"
+                  id="pdf-no-content"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+                  >
+                    <button
+                      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1laexcj-MuiButtonBase-root-MuiButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <div>
+                        Экспортировать
+                      </div>
+                      <span
+                        class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="FileDownloadIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"
+                          />
+                        </svg>
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-denxkp-MuiPaper-root-MuiTableContainer-root"
+              >
+                <table
+                  aria-label="collapsible table"
+                  class="MuiTable-root MuiTable-stickyHeader css-10xxjcv-MuiTable-root"
+                >
+                  <thead
+                    class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+                    style="background-color: white;"
+                  >
+                    <tr
+                      class="MuiTableRow-root MuiTableRow-head css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                        colspan="2"
+                        scope="col"
+                      >
+                        Разработчик
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                        colspan="1"
+                        scope="col"
+                      >
+                        Направление
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                        colspan="1"
+                        scope="col"
+                      >
+                        Работает в команде с
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody
+                    class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+                  >
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-11"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Кулагина Ольга
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        software developer (F-E)
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-12"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Тяпкина Анастасия
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        software developer (F-E)
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-13"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Степалин Иван
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        software developer (F-E)
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-14"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Челышева Кристина
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        UI / UX desigener
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-15"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Иванов Дмиртрий
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        project manager
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                  </tbody>
+                  <tfoot
+                    class="MuiTableFooter-root css-9cgc89-MuiTableFooter-root"
+                  >
+                    <tr
+                      class="MuiTableRow-root MuiTableRow-footer css-gjn0qb-MuiTableRow-root"
+                    >
+                      <td
+                        class="MuiTableCell-root MuiTableCell-footer MuiTableCell-sizeMedium MuiTablePagination-root css-1bgpk1u-MuiTableCell-root-MuiTablePagination-root"
+                        colspan="4"
+                      >
+                        <div
+                          class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular MuiTablePagination-toolbar css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar"
+                        >
+                          <div
+                            class="MuiTablePagination-spacer css-1psng7p-MuiTablePagination-spacer"
+                          />
+                          <p
+                            class="MuiTablePagination-selectLabel css-ftudac-MuiTablePagination-selectLabel"
+                            id="mui-2"
+                          >
+                            Строк на странице
+                          </p>
+                          <div
+                            class="MuiInputBase-root MuiInputBase-colorPrimary css-10vjefk-MuiInputBase-root-MuiTablePagination-select"
+                            variant="standard"
+                          >
+                            <select
+                              aria-label="rows per page"
+                              class="MuiTablePagination-select MuiNativeSelect-select MuiNativeSelect-standard MuiInputBase-input css-m3l1ig-MuiNativeSelect-select-MuiInputBase-input"
+                              id="mui-1"
+                            >
+                              <option
+                                class="MuiTablePagination-menuItem"
+                                value="5"
+                              >
+                                5
+                              </option>
+                              <option
+                                class="MuiTablePagination-menuItem"
+                                value="10"
+                              >
+                                10
+                              </option>
+                              <option
+                                class="MuiTablePagination-menuItem"
+                                value="25"
+                              >
+                                25
+                              </option>
+                              <option
+                                class="MuiTablePagination-menuItem"
+                                value="-1"
+                              >
+                                All
+                              </option>
+                            </select>
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiTablePagination-selectIcon MuiNativeSelect-icon MuiNativeSelect-iconStandard css-10bey84-MuiSvgIcon-root-MuiNativeSelect-icon"
+                              data-testid="ArrowDropDownIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M7 10l5 5 5-5z"
+                              />
+                            </svg>
+                          </div>
+                          <p
+                            class="MuiTablePagination-displayedRows css-1se5iqb-MuiTablePagination-displayedRows"
+                          >
+                            1–5 из 5
+                          </p>
+                          <div
+                            class="MuiBox-root css-1zye22"
+                          >
+                            <button
+                              aria-label="first page"
+                              class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                              disabled=""
+                              tabindex="-1"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                                data-testid="FirstPageIcon"
+                                focusable="false"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M18.41 16.59 13.82 12l4.59-4.59L17 6l-6 6 6 6zM6 6h2v12H6z"
+                                />
+                              </svg>
+                            </button>
+                            <button
+                              aria-label="previous page"
+                              class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                              disabled=""
+                              tabindex="-1"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                                data-testid="KeyboardArrowLeftIcon"
+                                focusable="false"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M15.41 16.59 10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"
+                                />
+                              </svg>
+                            </button>
+                            <button
+                              aria-label="next page"
+                              class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                              disabled=""
+                              tabindex="-1"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                                data-testid="KeyboardArrowRightIcon"
+                                focusable="false"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+                                />
+                              </svg>
+                            </button>
+                            <button
+                              aria-label="last page"
+                              class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                              disabled=""
+                              tabindex="-1"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                                data-testid="LastPageIcon"
+                                focusable="false"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M5.59 7.41 10.18 12l-4.59 4.59L7 18l6-6-6-6zM16 6h2v12h-2z"
+                                />
+                              </svg>
+                            </button>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </tfoot>
+                </table>
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiBox-root css-k008qs"
+    >
+      <div
+        class="MuiDrawer-root MuiDrawer-docked css-1ied04v-MuiDrawer-docked"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-12i7wg6-MuiPaper-root-MuiDrawer-paper"
+        >
+          <span
+            class="MuiBox-root css-cbawd"
+          >
+            <h1
+              class="MuiTypography-root MuiTypography-h1 css-11riag6-MuiTypography-root"
+            >
+              УР ПО
+            </h1>
+          </span>
+          <nav
+            class="MuiList-root MuiList-padding css-1n0edy-MuiList-root"
+          >
+            <a
+              class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root"
+              href="/main"
+              tabindex="0"
+            >
+              <div
+                class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="AutoAwesomeMosaicIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M3 5v14c0 1.1.89 2 2 2h6V3H5c-1.11 0-2 .9-2 2zm16-2h-6v8h8V5c0-1.1-.9-2-2-2zm-6 18h6c1.1 0 2-.9 2-2v-6h-8v8z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                >
+                  Основные показатели
+                </span>
+              </div>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+            <a
+              class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root"
+              href="/reports"
+              tabindex="0"
+            >
+              <div
+                class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="ListAltIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 5v14H5V5h14m1.1-2H3.9c-.5 0-.9.4-.9.9v16.2c0 .4.4.9.9.9h16.2c.4 0 .9-.5.9-.9V3.9c0-.5-.5-.9-.9-.9zM11 7h6v2h-6V7zm0 4h6v2h-6v-2zm0 4h6v2h-6zM7 7h2v2H7zm0 4h2v2H7zm0 4h2v2H7z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                >
+                  Отчеты
+                </span>
+              </div>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+            <a
+              aria-current="page"
+              class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root active"
+              href="/development"
+              tabindex="0"
+            >
+              <div
+                class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="TrendingUpIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="m16 6 2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                >
+                  План развития сотрудников
+                </span>
+              </div>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+          </nav>
+          <div
+            class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-1emaoxj-MuiToolbar-root"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-f0vcbh-MuiSvgIcon-root"
+                data-testid="MenuOpenIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M3 18h13v-2H3v2zm0-5h10v-2H3v2zm0-7v2h13V6H3zm18 9.59L17.42 12 21 8.41 19.59 7l-5 5 5 5L21 15.59z"
+                />
+              </svg>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <main
+        class="MuiBox-root css-1w1gdci"
+      >
+        <div
+          class="MuiContainer-root css-1jcr8da-MuiContainer-root"
+        >
+          <div>
+            <div
+              style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;"
+            >
+              <h2
+                class="MuiTypography-root MuiTypography-h2 css-182teav-MuiTypography-root"
+              >
+                План развития сотрудников
+              </h2>
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-bzaln3-MuiGrid-root"
+                id="pdf-no-content"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+                >
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1laexcj-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div>
+                      Экспортировать
+                    </div>
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="FileDownloadIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-denxkp-MuiPaper-root-MuiTableContainer-root"
+            >
+              <table
+                aria-label="collapsible table"
+                class="MuiTable-root MuiTable-stickyHeader css-10xxjcv-MuiTable-root"
+              >
+                <thead
+                  class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+                  style="background-color: white;"
+                >
+                  <tr
+                    class="MuiTableRow-root MuiTableRow-head css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                      colspan="2"
+                      scope="col"
+                    >
+                      Разработчик
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                      colspan="1"
+                      scope="col"
+                    >
+                      Направление
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                      colspan="1"
+                      scope="col"
+                    >
+                      Работает в команде с
+                    </th>
+                  </tr>
+                </thead>
+                <tbody
+                  class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+                >
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-11"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Кулагина Ольга
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      software developer (F-E)
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-12"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Тяпкина Анастасия
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      software developer (F-E)
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-13"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Степалин Иван
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      software developer (F-E)
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-14"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Челышева Кристина
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      UI / UX desigener
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-15"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Иванов Дмиртрий
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      project manager
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                </tbody>
+                <tfoot
+                  class="MuiTableFooter-root css-9cgc89-MuiTableFooter-root"
+                >
+                  <tr
+                    class="MuiTableRow-root MuiTableRow-footer css-gjn0qb-MuiTableRow-root"
+                  >
+                    <td
+                      class="MuiTableCell-root MuiTableCell-footer MuiTableCell-sizeMedium MuiTablePagination-root css-1bgpk1u-MuiTableCell-root-MuiTablePagination-root"
+                      colspan="4"
+                    >
+                      <div
+                        class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular MuiTablePagination-toolbar css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar"
+                      >
+                        <div
+                          class="MuiTablePagination-spacer css-1psng7p-MuiTablePagination-spacer"
+                        />
+                        <p
+                          class="MuiTablePagination-selectLabel css-ftudac-MuiTablePagination-selectLabel"
+                          id="mui-2"
+                        >
+                          Строк на странице
+                        </p>
+                        <div
+                          class="MuiInputBase-root MuiInputBase-colorPrimary css-10vjefk-MuiInputBase-root-MuiTablePagination-select"
+                          variant="standard"
+                        >
+                          <select
+                            aria-label="rows per page"
+                            class="MuiTablePagination-select MuiNativeSelect-select MuiNativeSelect-standard MuiInputBase-input css-m3l1ig-MuiNativeSelect-select-MuiInputBase-input"
+                            id="mui-1"
+                          >
+                            <option
+                              class="MuiTablePagination-menuItem"
+                              value="5"
+                            >
+                              5
+                            </option>
+                            <option
+                              class="MuiTablePagination-menuItem"
+                              value="10"
+                            >
+                              10
+                            </option>
+                            <option
+                              class="MuiTablePagination-menuItem"
+                              value="25"
+                            >
+                              25
+                            </option>
+                            <option
+                              class="MuiTablePagination-menuItem"
+                              value="-1"
+                            >
+                              All
+                            </option>
+                          </select>
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiTablePagination-selectIcon MuiNativeSelect-icon MuiNativeSelect-iconStandard css-10bey84-MuiSvgIcon-root-MuiNativeSelect-icon"
+                            data-testid="ArrowDropDownIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M7 10l5 5 5-5z"
+                            />
+                          </svg>
+                        </div>
+                        <p
+                          class="MuiTablePagination-displayedRows css-1se5iqb-MuiTablePagination-displayedRows"
+                        >
+                          1–5 из 5
+                        </p>
+                        <div
+                          class="MuiBox-root css-1zye22"
+                        >
+                          <button
+                            aria-label="first page"
+                            class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                            disabled=""
+                            tabindex="-1"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="FirstPageIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M18.41 16.59 13.82 12l4.59-4.59L17 6l-6 6 6 6zM6 6h2v12H6z"
+                              />
+                            </svg>
+                          </button>
+                          <button
+                            aria-label="previous page"
+                            class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                            disabled=""
+                            tabindex="-1"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="KeyboardArrowLeftIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M15.41 16.59 10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"
+                              />
+                            </svg>
+                          </button>
+                          <button
+                            aria-label="next page"
+                            class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                            disabled=""
+                            tabindex="-1"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="KeyboardArrowRightIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+                              />
+                            </svg>
+                          </button>
+                          <button
+                            aria-label="last page"
+                            class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                            disabled=""
+                            tabindex="-1"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="LastPageIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M5.59 7.41 10.18 12l-4.59 4.59L7 18l6-6-6-6zM16 6h2v12h-2z"
+                              />
+                            </svg>
+                          </button>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </tfoot>
+              </table>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Тестирование страницы: План развития сотрудников Проверка на правильный рендер таблицы - должно быть 5 строк 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiBox-root css-k008qs"
+      >
+        <div
+          class="MuiDrawer-root MuiDrawer-docked css-1ied04v-MuiDrawer-docked"
+        >
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-12i7wg6-MuiPaper-root-MuiDrawer-paper"
+          >
+            <span
+              class="MuiBox-root css-cbawd"
+            >
+              <h1
+                class="MuiTypography-root MuiTypography-h1 css-11riag6-MuiTypography-root"
+              >
+                УР ПО
+              </h1>
+            </span>
+            <nav
+              class="MuiList-root MuiList-padding css-1n0edy-MuiList-root"
+            >
+              <a
+                class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root"
+                href="/main"
+                tabindex="0"
+              >
+                <div
+                  class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                    data-testid="AutoAwesomeMosaicIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 5v14c0 1.1.89 2 2 2h6V3H5c-1.11 0-2 .9-2 2zm16-2h-6v8h8V5c0-1.1-.9-2-2-2zm-6 18h6c1.1 0 2-.9 2-2v-6h-8v8z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                  >
+                    Основные показатели
+                  </span>
+                </div>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </a>
+              <a
+                class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root"
+                href="/reports"
+                tabindex="0"
+              >
+                <div
+                  class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                    data-testid="ListAltIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m1.1-2H3.9c-.5 0-.9.4-.9.9v16.2c0 .4.4.9.9.9h16.2c.4 0 .9-.5.9-.9V3.9c0-.5-.5-.9-.9-.9zM11 7h6v2h-6V7zm0 4h6v2h-6v-2zm0 4h6v2h-6zM7 7h2v2H7zm0 4h2v2H7zm0 4h2v2H7z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                  >
+                    Отчеты
+                  </span>
+                </div>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </a>
+              <a
+                aria-current="page"
+                class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root active"
+                href="/development"
+                tabindex="0"
+              >
+                <div
+                  class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                    data-testid="TrendingUpIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="m16 6 2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                  >
+                    План развития сотрудников
+                  </span>
+                </div>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </a>
+            </nav>
+            <div
+              class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-1emaoxj-MuiToolbar-root"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                tabindex="0"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-f0vcbh-MuiSvgIcon-root"
+                  data-testid="MenuOpenIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M3 18h13v-2H3v2zm0-5h10v-2H3v2zm0-7v2h13V6H3zm18 9.59L17.42 12 21 8.41 19.59 7l-5 5 5 5L21 15.59z"
+                  />
+                </svg>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <main
+          class="MuiBox-root css-1w1gdci"
+        >
+          <div
+            class="MuiContainer-root css-1jcr8da-MuiContainer-root"
+          >
+            <div>
+              <div
+                style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;"
+              >
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 css-182teav-MuiTypography-root"
+                >
+                  План развития сотрудников
+                </h2>
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-bzaln3-MuiGrid-root"
+                  id="pdf-no-content"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+                  >
+                    <button
+                      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1laexcj-MuiButtonBase-root-MuiButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <div>
+                        Экспортировать
+                      </div>
+                      <span
+                        class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="FileDownloadIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"
+                          />
+                        </svg>
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-denxkp-MuiPaper-root-MuiTableContainer-root"
+              >
+                <table
+                  aria-label="collapsible table"
+                  class="MuiTable-root MuiTable-stickyHeader css-10xxjcv-MuiTable-root"
+                >
+                  <thead
+                    class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+                    style="background-color: white;"
+                  >
+                    <tr
+                      class="MuiTableRow-root MuiTableRow-head css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                        colspan="2"
+                        scope="col"
+                      >
+                        Разработчик
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                        colspan="1"
+                        scope="col"
+                      >
+                        Направление
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                        colspan="1"
+                        scope="col"
+                      >
+                        Работает в команде с
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody
+                    class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+                  >
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-11"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Кулагина Ольга
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        software developer (F-E)
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-12"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Тяпкина Анастасия
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        software developer (F-E)
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-13"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Степалин Иван
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        software developer (F-E)
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-14"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Челышева Кристина
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        UI / UX desigener
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                    <tr
+                      aria-label="table-row"
+                      class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                    >
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                        scope="row"
+                      >
+                        <button
+                          aria-label="go-to-page-15"
+                          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                            data-testid="OpenInNewIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                            />
+                          </svg>
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        Иванов Дмиртрий
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        project manager
+                      </th>
+                      <th
+                        class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                        scope="row"
+                      >
+                        2020-01-01
+                      </th>
+                    </tr>
+                  </tbody>
+                  <tfoot
+                    class="MuiTableFooter-root css-9cgc89-MuiTableFooter-root"
+                  >
+                    <tr
+                      class="MuiTableRow-root MuiTableRow-footer css-gjn0qb-MuiTableRow-root"
+                    >
+                      <td
+                        class="MuiTableCell-root MuiTableCell-footer MuiTableCell-sizeMedium MuiTablePagination-root css-1bgpk1u-MuiTableCell-root-MuiTablePagination-root"
+                        colspan="4"
+                      >
+                        <div
+                          class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular MuiTablePagination-toolbar css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar"
+                        >
+                          <div
+                            class="MuiTablePagination-spacer css-1psng7p-MuiTablePagination-spacer"
+                          />
+                          <p
+                            class="MuiTablePagination-selectLabel css-ftudac-MuiTablePagination-selectLabel"
+                            id="mui-2"
+                          >
+                            Строк на странице
+                          </p>
+                          <div
+                            class="MuiInputBase-root MuiInputBase-colorPrimary css-10vjefk-MuiInputBase-root-MuiTablePagination-select"
+                            variant="standard"
+                          >
+                            <select
+                              aria-label="rows per page"
+                              class="MuiTablePagination-select MuiNativeSelect-select MuiNativeSelect-standard MuiInputBase-input css-m3l1ig-MuiNativeSelect-select-MuiInputBase-input"
+                              id="mui-1"
+                            >
+                              <option
+                                class="MuiTablePagination-menuItem"
+                                value="5"
+                              >
+                                5
+                              </option>
+                              <option
+                                class="MuiTablePagination-menuItem"
+                                value="10"
+                              >
+                                10
+                              </option>
+                              <option
+                                class="MuiTablePagination-menuItem"
+                                value="25"
+                              >
+                                25
+                              </option>
+                              <option
+                                class="MuiTablePagination-menuItem"
+                                value="-1"
+                              >
+                                All
+                              </option>
+                            </select>
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiTablePagination-selectIcon MuiNativeSelect-icon MuiNativeSelect-iconStandard css-10bey84-MuiSvgIcon-root-MuiNativeSelect-icon"
+                              data-testid="ArrowDropDownIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M7 10l5 5 5-5z"
+                              />
+                            </svg>
+                          </div>
+                          <p
+                            class="MuiTablePagination-displayedRows css-1se5iqb-MuiTablePagination-displayedRows"
+                          >
+                            1–5 из 5
+                          </p>
+                          <div
+                            class="MuiBox-root css-1zye22"
+                          >
+                            <button
+                              aria-label="first page"
+                              class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                              disabled=""
+                              tabindex="-1"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                                data-testid="FirstPageIcon"
+                                focusable="false"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M18.41 16.59 13.82 12l4.59-4.59L17 6l-6 6 6 6zM6 6h2v12H6z"
+                                />
+                              </svg>
+                            </button>
+                            <button
+                              aria-label="previous page"
+                              class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                              disabled=""
+                              tabindex="-1"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                                data-testid="KeyboardArrowLeftIcon"
+                                focusable="false"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M15.41 16.59 10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"
+                                />
+                              </svg>
+                            </button>
+                            <button
+                              aria-label="next page"
+                              class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                              disabled=""
+                              tabindex="-1"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                                data-testid="KeyboardArrowRightIcon"
+                                focusable="false"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+                                />
+                              </svg>
+                            </button>
+                            <button
+                              aria-label="last page"
+                              class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                              disabled=""
+                              tabindex="-1"
+                              type="button"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                                data-testid="LastPageIcon"
+                                focusable="false"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M5.59 7.41 10.18 12l-4.59 4.59L7 18l6-6-6-6zM16 6h2v12h-2z"
+                                />
+                              </svg>
+                            </button>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </tfoot>
+                </table>
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiBox-root css-k008qs"
+    >
+      <div
+        class="MuiDrawer-root MuiDrawer-docked css-1ied04v-MuiDrawer-docked"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-12i7wg6-MuiPaper-root-MuiDrawer-paper"
+        >
+          <span
+            class="MuiBox-root css-cbawd"
+          >
+            <h1
+              class="MuiTypography-root MuiTypography-h1 css-11riag6-MuiTypography-root"
+            >
+              УР ПО
+            </h1>
+          </span>
+          <nav
+            class="MuiList-root MuiList-padding css-1n0edy-MuiList-root"
+          >
+            <a
+              class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root"
+              href="/main"
+              tabindex="0"
+            >
+              <div
+                class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="AutoAwesomeMosaicIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M3 5v14c0 1.1.89 2 2 2h6V3H5c-1.11 0-2 .9-2 2zm16-2h-6v8h8V5c0-1.1-.9-2-2-2zm-6 18h6c1.1 0 2-.9 2-2v-6h-8v8z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                >
+                  Основные показатели
+                </span>
+              </div>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+            <a
+              class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root"
+              href="/reports"
+              tabindex="0"
+            >
+              <div
+                class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="ListAltIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 5v14H5V5h14m1.1-2H3.9c-.5 0-.9.4-.9.9v16.2c0 .4.4.9.9.9h16.2c.4 0 .9-.5.9-.9V3.9c0-.5-.5-.9-.9-.9zM11 7h6v2h-6V7zm0 4h6v2h-6v-2zm0 4h6v2h-6zM7 7h2v2H7zm0 4h2v2H7zm0 4h2v2H7z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                >
+                  Отчеты
+                </span>
+              </div>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+            <a
+              aria-current="page"
+              class="MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-172z5kz-MuiButtonBase-root-MuiListItemButton-root active"
+              href="/development"
+              tabindex="0"
+            >
+              <div
+                class="MuiListItemIcon-root css-cveggr-MuiListItemIcon-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="TrendingUpIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="m16 6 2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiListItemText-root css-tlelie-MuiListItemText-root"
+              >
+                <span
+                  class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-r2kula-MuiTypography-root"
+                >
+                  План развития сотрудников
+                </span>
+              </div>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+          </nav>
+          <div
+            class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-1emaoxj-MuiToolbar-root"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-f0vcbh-MuiSvgIcon-root"
+                data-testid="MenuOpenIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M3 18h13v-2H3v2zm0-5h10v-2H3v2zm0-7v2h13V6H3zm18 9.59L17.42 12 21 8.41 19.59 7l-5 5 5 5L21 15.59z"
+                />
+              </svg>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <main
+        class="MuiBox-root css-1w1gdci"
+      >
+        <div
+          class="MuiContainer-root css-1jcr8da-MuiContainer-root"
+        >
+          <div>
+            <div
+              style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;"
+            >
+              <h2
+                class="MuiTypography-root MuiTypography-h2 css-182teav-MuiTypography-root"
+              >
+                План развития сотрудников
+              </h2>
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-bzaln3-MuiGrid-root"
+                id="pdf-no-content"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+                >
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1laexcj-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <div>
+                      Экспортировать
+                    </div>
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="FileDownloadIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-denxkp-MuiPaper-root-MuiTableContainer-root"
+            >
+              <table
+                aria-label="collapsible table"
+                class="MuiTable-root MuiTable-stickyHeader css-10xxjcv-MuiTable-root"
+              >
+                <thead
+                  class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+                  style="background-color: white;"
+                >
+                  <tr
+                    class="MuiTableRow-root MuiTableRow-head css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                      colspan="2"
+                      scope="col"
+                    >
+                      Разработчик
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                      colspan="1"
+                      scope="col"
+                    >
+                      Направление
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-sizeMedium css-1h2r8oz-MuiTableCell-root"
+                      colspan="1"
+                      scope="col"
+                    >
+                      Работает в команде с
+                    </th>
+                  </tr>
+                </thead>
+                <tbody
+                  class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+                >
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-11"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Кулагина Ольга
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      software developer (F-E)
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-12"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Тяпкина Анастасия
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      software developer (F-E)
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-13"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Степалин Иван
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      software developer (F-E)
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-14"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Челышева Кристина
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      UI / UX desigener
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                  <tr
+                    aria-label="table-row"
+                    class="MuiTableRow-root css-gjn0qb-MuiTableRow-root"
+                  >
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-ssmzei-MuiTableCell-root"
+                      scope="row"
+                    >
+                      <button
+                        aria-label="go-to-page-15"
+                        class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium css-69lqrp-MuiButtonBase-root-MuiIconButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="OpenInNewIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+                          />
+                        </svg>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      Иванов Дмиртрий
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      project manager
+                    </th>
+                    <th
+                      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-bhxrry-MuiTableCell-root"
+                      scope="row"
+                    >
+                      2020-01-01
+                    </th>
+                  </tr>
+                </tbody>
+                <tfoot
+                  class="MuiTableFooter-root css-9cgc89-MuiTableFooter-root"
+                >
+                  <tr
+                    class="MuiTableRow-root MuiTableRow-footer css-gjn0qb-MuiTableRow-root"
+                  >
+                    <td
+                      class="MuiTableCell-root MuiTableCell-footer MuiTableCell-sizeMedium MuiTablePagination-root css-1bgpk1u-MuiTableCell-root-MuiTablePagination-root"
+                      colspan="4"
+                    >
+                      <div
+                        class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular MuiTablePagination-toolbar css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar"
+                      >
+                        <div
+                          class="MuiTablePagination-spacer css-1psng7p-MuiTablePagination-spacer"
+                        />
+                        <p
+                          class="MuiTablePagination-selectLabel css-ftudac-MuiTablePagination-selectLabel"
+                          id="mui-2"
+                        >
+                          Строк на странице
+                        </p>
+                        <div
+                          class="MuiInputBase-root MuiInputBase-colorPrimary css-10vjefk-MuiInputBase-root-MuiTablePagination-select"
+                          variant="standard"
+                        >
+                          <select
+                            aria-label="rows per page"
+                            class="MuiTablePagination-select MuiNativeSelect-select MuiNativeSelect-standard MuiInputBase-input css-m3l1ig-MuiNativeSelect-select-MuiInputBase-input"
+                            id="mui-1"
+                          >
+                            <option
+                              class="MuiTablePagination-menuItem"
+                              value="5"
+                            >
+                              5
+                            </option>
+                            <option
+                              class="MuiTablePagination-menuItem"
+                              value="10"
+                            >
+                              10
+                            </option>
+                            <option
+                              class="MuiTablePagination-menuItem"
+                              value="25"
+                            >
+                              25
+                            </option>
+                            <option
+                              class="MuiTablePagination-menuItem"
+                              value="-1"
+                            >
+                              All
+                            </option>
+                          </select>
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiTablePagination-selectIcon MuiNativeSelect-icon MuiNativeSelect-iconStandard css-10bey84-MuiSvgIcon-root-MuiNativeSelect-icon"
+                            data-testid="ArrowDropDownIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M7 10l5 5 5-5z"
+                            />
+                          </svg>
+                        </div>
+                        <p
+                          class="MuiTablePagination-displayedRows css-1se5iqb-MuiTablePagination-displayedRows"
+                        >
+                          1–5 из 5
+                        </p>
+                        <div
+                          class="MuiBox-root css-1zye22"
+                        >
+                          <button
+                            aria-label="first page"
+                            class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                            disabled=""
+                            tabindex="-1"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="FirstPageIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M18.41 16.59 13.82 12l4.59-4.59L17 6l-6 6 6 6zM6 6h2v12H6z"
+                              />
+                            </svg>
+                          </button>
+                          <button
+                            aria-label="previous page"
+                            class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                            disabled=""
+                            tabindex="-1"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="KeyboardArrowLeftIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M15.41 16.59 10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"
+                              />
+                            </svg>
+                          </button>
+                          <button
+                            aria-label="next page"
+                            class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                            disabled=""
+                            tabindex="-1"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="KeyboardArrowRightIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.59 16.59 13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+                              />
+                            </svg>
+                          </button>
+                          <button
+                            aria-label="last page"
+                            class="MuiButtonBase-root Mui-disabled MuiIconButton-root Mui-disabled MuiIconButton-sizeMedium css-78trlr-MuiButtonBase-root-MuiIconButton-root"
+                            disabled=""
+                            tabindex="-1"
+                            type="button"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="LastPageIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M5.59 7.41 10.18 12l-4.59 4.59L7 18l6-6-6-6zM16 6h2v12h-2z"
+                              />
+                            </svg>
+                          </button>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </tfoot>
+              </table>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
